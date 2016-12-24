@@ -18,18 +18,18 @@ Your choice of E-Book Reader will allow you to view this E-Book on Windows, Linu
 
 Two formats are provided for this E-Book: epub and mobi. 
 
-The mobi format should be compatible with Kindle Readers, but I have not tested this.
+The .mobi format should be compatible with Kindle Readers, but I have not tested this.
 
-The epub format is the most widely supported format and probably provides the best viewing experience. 
+The .epub format is the most widely supported format and probably provides the best viewing experience. 
   
   
 ## To Download - Clone this Repository Or Download Zip
  
- To clone this repository, you will need a copy of git to clone this repository.
+ To clone this repository, you will need to install [git](https://git-scm.com/) in order to clone this respository to your hard drive and access the E-Book files.
  
- Github also gives you the option to download the files in this repository as a zip file. (See the green 'clone' or 'download' button at top right of this page.)  
+ If you don't have 'git', Github also gives you the option to download the files in this repository as a zip file. (See the green 'clone' or 'download' button at top right of this page.)  
  
- For an ideal configuration, I recommend you load the e-pub file contained in the repository into your E-Book Reader of Choice. 
+ For an ideal configuration, I recommend you load the .epub file contained in this repository into your E-Book Reader of Choice. 
     
  
 ## Golang ROCKS!!!
