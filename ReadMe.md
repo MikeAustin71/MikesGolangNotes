@@ -22,28 +22,31 @@ The mobi format should be compatible with Kindle Readers, but I have not tested 
 
 The epub format is the most widely supported format and probably provides the best viewing experience. 
   
- ## To Download - Clone this Repository & load E-Book into an E-Book Viewer.
+  
+## To Download - Clone this Repository Or Download Zip
  
- You will need a copy of git to clone this repository.
+ To clone this repository, you will need a copy of git to clone this repository.
+ 
+ Github also gives you the option to download the files in this repository as a zip file. (See the green 'clone' or 'download' button at top right of this page.)  
  
  For an ideal configuration, I recommend you load the e-pub file contained in the repository into your E-Book Reader of Choice. 
     
  
- ## Golang ROCKS!!!
+## Golang ROCKS!!!
   
 I hope this helps.
    
 Thanks - Have Fun!   
   
- Mike Rapp
+Mike Rapp
  
- mike.go@paladinacs.net
+mike.go@paladinacs.net
   
- -------------------------
+-------------------------
    
   #### Linux Installations
   
-  2016-12-05 - Re: linux issues. Personally loaded .epub file under a clean installation of Ubuntu 16.04 and Calibre E-book manager. Seems to function as planned. Presentation looks great. Calibre linux installation is discussed [here](http://calibre-ebook.com/download_linux).
+  2016-12-05 - Re: linux issues. I personally loaded .epub file under a clean installation of Ubuntu 16.04 and Calibre E-book manager. Seems to function as planned. Presentation looks great. Calibre linux installation is discussed [here](http://calibre-ebook.com/download_linux).
   I used recommended Calibre installation command:
   ```
   sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.py | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main()"
