@@ -3,7 +3,7 @@
 This E-Book provides information and sample source code for those learning or using the [Go Programming Language](https://golang.org/) (a.k.a. Golang).
 
 ## Free E-Book
-This is E-Book is made available to the public, free of charge.
+This E-Book is made available to the public, free of charge.
 
 ## Golang Information, Source Code And Hyperlinks to Videos & Articles
 This E-Book contains 3,600+ pages of information and source code covering a wide range of Golang topics. In addition, there are hundreds of hyperlinks to videos, articles and other books focusing on specific Golang subjects.  
